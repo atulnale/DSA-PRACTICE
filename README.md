@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 1:  2024-02-04
+- Problem 4:
+    -  Median of Two Sorted Arrays (Leetcode Question No. 4)
+        - (https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - Problem 3:
     -  Longest Substring Without Repeating Characters (Leetcode Question No. 3)
         - (https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
