@@ -41,6 +41,6 @@ class Approach1Test {
         int[] nums1 = {4};
         int[] nums2 = {1,2,3,5,6,7};
         double result = approach1.findMedianSortedArrays(nums1, nums2);
-        assertEquals(1.0, result);
+        assertEquals(4, result);
     }
 }
