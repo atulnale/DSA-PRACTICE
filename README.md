@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 3:  2024-02-06
+- Problem 5:
+    -  Longest Palindromic Substring (Leetcode Question No. 5)  -- Approach 2
+        - (https://leetcode.com/problems/longest-palindromic-substring/description/)
+
 #### Day 2:  2024-02-05
 - Problem 5:
     -  Longest Palindromic Substring (Leetcode Question No. 5)
