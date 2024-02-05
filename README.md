@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 2:  2024-02-05
+- Problem 5:
+    -  Longest Palindromic Substring (Leetcode Question No. 5)
+        - (https://leetcode.com/problems/longest-palindromic-substring/description/)
+
 #### Day 1:  2024-02-04
 - Problem 4:
     -  Median of Two Sorted Arrays (Leetcode Question No. 4)
