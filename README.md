@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 3:  2024-02-06
+- Problem 6:
+    -  Zigzag Conversion (Leetcode Question No. 6)  -- Approach 1
+        - (https://leetcode.com/problems/zigzag-conversion/description/)
 - Problem 5:
     -  Longest Palindromic Substring (Leetcode Question No. 5)  -- Approach 2
         - (https://leetcode.com/problems/longest-palindromic-substring/description/)
