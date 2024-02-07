@@ -1,13 +1,18 @@
 # DSA-PRACTICE
 
 #### Day 4:  2024-02-07
+- Problem 9:
+    -  Palindrome Number (Leetcode Question No. 9) (https://leetcode.com/problems/palindrome-number/description/)
+        - Solved approach 1
+- Problem 8:
+  -  String to Integer (atoi) (Leetcode Question No. 8) (https://leetcode.com/problems/string-to-integer-atoi/description/)
+      - Solved approach 1
 - Problem 7:
     -  Reverse Integer (Leetcode Question No. 7) (https://leetcode.com/problems/reverse-integer/description/)
         - Solved approach 1
         - Solved using approach 2
         - Formatting readme file
-   -  String to Integer (atoi) (Leetcode Question No. 8) (https://leetcode.com/problems/string-to-integer-atoi/description/)
-      - Solved approach 1
+   
 #### Day 3:  2024-02-06
 - Problem 6:
     -  Zigzag Conversion (Leetcode Question No. 6)  -- Approach 1
