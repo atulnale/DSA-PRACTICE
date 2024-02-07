@@ -1,5 +1,11 @@
 # DSA-PRACTICE
 
+#### Day 4:  2024-02-07
+- Problem 7:
+    -  Reverse Integer (Leetcode Question No. 7) (https://leetcode.com/problems/reverse-integer/description/)
+        - Solved approach 1
+        - Solved using approach 2
+        - Formatting readme file
 #### Day 3:  2024-02-06
 - Problem 6:
     -  Zigzag Conversion (Leetcode Question No. 6)  -- Approach 1

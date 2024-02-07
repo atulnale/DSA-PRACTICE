@@ -1,4 +1,4 @@
-package problem6.problem4;
+package problem6;
 
 public class Approach1 {
     public String convert(String s, int numRows) {
