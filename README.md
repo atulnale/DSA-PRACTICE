@@ -6,6 +6,8 @@
         - Solved approach 1
         - Solved using approach 2
         - Formatting readme file
+   -  String to Integer (atoi) (Leetcode Question No. 8) (https://leetcode.com/problems/string-to-integer-atoi/description/)
+      - Solved approach 1
 #### Day 3:  2024-02-06
 - Problem 6:
     -  Zigzag Conversion (Leetcode Question No. 6)  -- Approach 1
