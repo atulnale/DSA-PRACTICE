@@ -1,6 +1,10 @@
 # DSA-PRACTICE
 
 #### Day 5:  2024-02-08
+- Problem 11:
+    -   Container With Most Water (Leetcode Question No. 11) (https://leetcode.com/problems/container-with-most-water/description/)
+        - Solved approach 1
+        - Solved approach 2
 - Problem 10:
     -   Regular Expression Matching (Leetcode Question No. 10) (https://leetcode.com/problems/regular-expression-matching/description/)
         - Solved approach 1
