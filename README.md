@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 5:  2024-02-08
+- Problem 10:
+    -   Regular Expression Matching (Leetcode Question No. 10) (https://leetcode.com/problems/regular-expression-matching/description/)
+        - Solved approach 1
+
 #### Day 4:  2024-02-07
 - Problem 9:
     -  Palindrome Number (Leetcode Question No. 9) (https://leetcode.com/problems/palindrome-number/description/)
