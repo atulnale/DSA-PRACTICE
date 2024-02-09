@@ -1,5 +1,8 @@
 # DSA-PRACTICE
 #### Day 6:  2024-02-09
+- Problem 14:
+    -   Longest Common Prefix (Leetcode Question No. 14) (https://leetcode.com/problems/longest-common-prefix/description/)
+        - Solved approach 1
 - Problem 13:
     -   Roman to Integer (Leetcode Question No. 13) (https://leetcode.com/problems/roman-to-integer/description/)
         - Solved approach 1
