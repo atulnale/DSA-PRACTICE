@@ -1,4 +1,8 @@
 # DSA-PRACTICE
+#### Day 6:  2024-02-09
+- Problem 13:
+    -   Roman to Integer (Leetcode Question No. 13) (https://leetcode.com/problems/roman-to-integer/description/)
+        - Solved approach 1
 
 #### Day 5:  2024-02-08
 - Problem 12:
