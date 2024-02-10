@@ -1,4 +1,10 @@
 # DSA-PRACTICE
+
+#### Day 6:  2024-02-09
+- Problem 15:
+    -   3Sum (Leetcode Question No. 15) (https://leetcode.com/problems/3sum/editorial/)
+        - Solved approach 1
+  
 #### Day 6:  2024-02-09
 - Problem 14:
     -   Longest Common Prefix (Leetcode Question No. 14) (https://leetcode.com/problems/longest-common-prefix/description/)
