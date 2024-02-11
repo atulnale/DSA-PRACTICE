@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 6:  2024-02-09
+- Problem 16:
+    -   3Sum Closest (Leetcode Question No. 16) (https://leetcode.com/problems/3sum-closest/description/)
+        - Solved approach 1
 - Problem 15:
     -   3Sum (Leetcode Question No. 15) (https://leetcode.com/problems/3sum/editorial/)
         - Solved approach 1
