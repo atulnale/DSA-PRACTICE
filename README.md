@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 6:  2024-02-09
+- Problem 17:
+    -   Letter Combinations of a Phone Number (Leetcode Question No. 17) (https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+        - Solved approach 1
 - Problem 16:
     -   3Sum Closest (Leetcode Question No. 16) (https://leetcode.com/problems/3sum-closest/description/)
         - Solved approach 1
