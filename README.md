@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 9:  2024-02-12
+- Problem 19:
+    -   Remove Nth Node From End of List (Leetcode Question No. 19) (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+        - Solved approach 1
 - Problem 18:
     -   4Sum (Leetcode Question No. 18) (https://leetcode.com/problems/4sum/submissions/1173359428/)
         - Solved approach 1
