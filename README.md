@@ -1,12 +1,19 @@
 # DSA-PRACTICE
 
-#### Day 6:  2024-02-09
+#### Day 9:  2024-02-12
+- Problem 18:
+    -   4Sum (Leetcode Question No. 18) (https://leetcode.com/problems/4sum/submissions/1173359428/)
+        - Solved approach 1
+
+#### Day 8:  2024-02-11
 - Problem 17:
     -   Letter Combinations of a Phone Number (Leetcode Question No. 17) (https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
         - Solved approach 1
 - Problem 16:
     -   3Sum Closest (Leetcode Question No. 16) (https://leetcode.com/problems/3sum-closest/description/)
         - Solved approach 1
+
+#### Day 7:  2024-02-10
 - Problem 15:
     -   3Sum (Leetcode Question No. 15) (https://leetcode.com/problems/3sum/editorial/)
         - Solved approach 1
