@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 9:  2024-02-12
+- Problem 21:
+    -   Merge Two Sorted Lists (Leetcode Question No. 21) (https://leetcode.com/problems/merge-two-sorted-lists/description/)
+        - Solved approach 1
 - Problem 20:
     -   Valid Parentheses (Leetcode Question No. 20) (https://leetcode.com/problems/valid-parentheses/description/)
         - Solved approach 1
