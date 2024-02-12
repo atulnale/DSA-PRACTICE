@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 9:  2024-02-12
+- Problem 20:
+    -   Valid Parentheses (Leetcode Question No. 20) (https://leetcode.com/problems/valid-parentheses/description/)
+        - Solved approach 1
 - Problem 19:
     -   Remove Nth Node From End of List (Leetcode Question No. 19) (https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
         - Solved approach 1
