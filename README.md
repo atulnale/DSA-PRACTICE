@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 10:  2024-02-12
+- Problem 22:
+    -   Generate Parentheses (Leetcode Question No. 22) (https://leetcode.com/problems/generate-parentheses/submissions/1174334518/)
+        - Solved approach 1
+
 #### Day 9:  2024-02-12
 - Problem 21:
     -   Merge Two Sorted Lists (Leetcode Question No. 21) (https://leetcode.com/problems/merge-two-sorted-lists/description/)
