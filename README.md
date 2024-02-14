@@ -1,6 +1,11 @@
 # DSA-PRACTICE
 
-#### Day 10:  2024-02-12
+#### Day 11:  2024-02-14
+- Problem 23:
+    -   Merge k Sorted Lists (Leetcode Question No. 23) (https://leetcode.com/problems/merge-k-sorted-lists/description/)
+        - Solved approach 1
+
+#### Day 10:  2024-02-13
 - Problem 22:
     -   Generate Parentheses (Leetcode Question No. 22) (https://leetcode.com/problems/generate-parentheses/submissions/1174334518/)
         - Solved approach 1
