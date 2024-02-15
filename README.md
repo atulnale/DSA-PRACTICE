@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 12:  2024-02-15
+- Problem 24:
+    -   Swap Nodes in Pairs (Leetcode Question No. 24) (https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+        - Solved approach 1
+
 #### Day 11:  2024-02-14
 - Problem 23:
     -   Merge k Sorted Lists (Leetcode Question No. 23) (https://leetcode.com/problems/merge-k-sorted-lists/description/)
