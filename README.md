@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 13:  2024-02-16
+- Problem 26:
+    -   Remove Duplicates from Sorted Array (Leetcode Question No. 26) (https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1177027302/)
+        - Solved approach 1
 - Problem 25:
     -   Reverse Nodes in k-Group (Leetcode Question No. 25) (https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
         - Solved approach 1
