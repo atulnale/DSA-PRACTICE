@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 14:  2024-02-17
+- Problem 28:
+    -   Find the Index of the First Occurrence in a String (Leetcode Question No. 28) (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+        - Solved approach 1
 - Problem 27:
     -   Remove Element (Leetcode Question No. 27) (https://leetcode.com/problems/remove-element/description/)
         - Solved approach 1
