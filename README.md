@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 13:  2024-02-16
+- Problem 25:
+    -   Reverse Nodes in k-Group (Leetcode Question No. 25) (https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+        - Solved approach 1
+
 #### Day 12:  2024-02-15
 - Problem 24:
     -   Swap Nodes in Pairs (Leetcode Question No. 24) (https://leetcode.com/problems/swap-nodes-in-pairs/description/)
