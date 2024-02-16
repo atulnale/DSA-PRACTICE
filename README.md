@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 14:  2024-02-17
+- Problem 27:
+    -   Remove Element (Leetcode Question No. 27) (https://leetcode.com/problems/remove-element/description/)
+        - Solved approach 1
+
 #### Day 13:  2024-02-16
 - Problem 26:
     -   Remove Duplicates from Sorted Array (Leetcode Question No. 26) (https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1177027302/)
