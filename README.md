@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 15:  2024-02-18
+- Problem 29:
+    -   Divide Two Integers (Leetcode Question No. 29) (https://leetcode.com/problems/divide-two-integers/description/?source=submission-noac)
+        - Solved approach 1
+
 #### Day 14:  2024-02-17
 - Problem 28:
     -   Find the Index of the First Occurrence in a String (Leetcode Question No. 28) (https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
