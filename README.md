@@ -1,6 +1,11 @@
 # DSA-PRACTICE
 
 #### Day 15:  2024-02-18
+- Problem 30:
+    -   Substring with Concatenation of All Words (Leetcode Question No. 30) (https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+        - Solved approach 1
+
+#### Day 15:  2024-02-18
 - Problem 29:
     -   Divide Two Integers (Leetcode Question No. 29) (https://leetcode.com/problems/divide-two-integers/description/?source=submission-noac)
         - Solved approach 1
