@@ -1,6 +1,11 @@
 # DSA-PRACTICE
 
-#### Day 15:  2024-02-18
+#### Day 17:  2024-02-20
+- Problem 31:
+    -   Next Permutation (Leetcode Question No. 31) (https://leetcode.com/problems/next-permutation/submissions/1181179350/)
+        - Solved approach 1
+        
+#### Day 16:  2024-02-19
 - Problem 30:
     -   Substring with Concatenation of All Words (Leetcode Question No. 30) (https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
         - Solved approach 1
