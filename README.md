@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 18:  2024-02-21
+- Problem 32:
+    -   Longest Valid Parentheses (Leetcode Question No. 32) (https://leetcode.com/problems/longest-valid-parentheses/description/)
+        - Solved approach 1
+
 #### Day 17:  2024-02-20
 - Problem 31:
     -   Next Permutation (Leetcode Question No. 31) (https://leetcode.com/problems/next-permutation/submissions/1181179350/)
