@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 19:  2024-02-22
+- Problem 33:
+    -   Search in Rotated Sorted Array (Leetcode Question No. 33) (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+        - Solved approach 1
+
 #### Day 18:  2024-02-21
 - Problem 32:
     -   Longest Valid Parentheses (Leetcode Question No. 32) (https://leetcode.com/problems/longest-valid-parentheses/description/)
