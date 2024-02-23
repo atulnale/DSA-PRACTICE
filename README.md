@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 20:  2024-02-23
+- Problem 34:
+    -   Find First and Last Position of Element in Sorted Array (Leetcode Question No. 34) (https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+        - Solved approach 1
+
 #### Day 19:  2024-02-22
 - Problem 33:
     -   Search in Rotated Sorted Array (Leetcode Question No. 33) (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
