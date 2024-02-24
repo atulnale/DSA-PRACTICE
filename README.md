@@ -1,6 +1,11 @@
 # DSA-PRACTICE
 
 #### Day 20:  2024-02-23
+- Problem 37:
+    -   Sudoku Solver (Leetcode Question No. 37) (https://leetcode.com/problems/sudoku-solver/description/)
+        - Solved approach 1
+
+#### Day 20:  2024-02-23
 - Problem 36:
     -   Search Insert Position (Leetcode Question No. 36) (https://leetcode.com/problems/valid-sudoku/submissions/1184143622/)
         - Solved approach 1
