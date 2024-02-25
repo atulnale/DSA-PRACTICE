@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 22:  2024-02-25
+- Problem 39:
+    -    Combination Sum (Leetcode Question No. 39) (https://leetcode.com/problems/combination-sum/description/)
+         - Solved approach 1
 - Problem 38:
     -    Count and Say (Leetcode Question No. 38) (https://leetcode.com/problems/count-and-say/description/)
         - Solved approach 1
