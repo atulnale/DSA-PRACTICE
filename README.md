@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 23:  2024-02-26
+- Problem 41:
+    -    First Missing Positive (Leetcode Question No. 41) (https://leetcode.com/problems/first-missing-positive/description/)
+         - Solved approach 1
+
 #### Day 22:  2024-02-25
 - Problem 40:
     -    Combination Sum II (Leetcode Question No. 40) (https://leetcode.com/problems/combination-sum-ii/description/)
