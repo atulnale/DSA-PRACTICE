@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 24:  2024-02-27
+- Problem 42:
+    -    Trapping Rain Water (Leetcode Question No. 42) (https://leetcode.com/problems/trapping-rain-water/description/)
+        - Solved approach 1
+
 #### Day 23:  2024-02-26
 - Problem 41:
     -    First Missing Positive (Leetcode Question No. 41) (https://leetcode.com/problems/first-missing-positive/description/)
