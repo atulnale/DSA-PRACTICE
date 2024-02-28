@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 25:  2024-02-28
+- Problem 43:
+    -    Multiply Strings (Leetcode Question No. 43) (https://leetcode.com/problems/multiply-strings/description/)
+         - Solved approach 1
+
 #### Day 24:  2024-02-27
 - Problem 42:
     -    Trapping Rain Water (Leetcode Question No. 42) (https://leetcode.com/problems/trapping-rain-water/description/)
