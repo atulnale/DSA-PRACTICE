@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 26:  2024-02-29
+- Problem 44:
+    -    Wildcard Matching (Leetcode Question No. 44) (https://leetcode.com/problems/wildcard-matching/submissions/1189854862/)
+        - Solved approach 1
+
 #### Day 25:  2024-02-28
 - Problem 43:
     -    Multiply Strings (Leetcode Question No. 43) (https://leetcode.com/problems/multiply-strings/description/)
