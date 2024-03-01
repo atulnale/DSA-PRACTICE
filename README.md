@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 27:  2024-03-01
+- Problem 45:
+    -    Jump Game II (Leetcode Question No. 45) (https://leetcode.com/problems/jump-game-ii/description/)
+         - Solved approach 1
+
 #### Day 26:  2024-02-29
 - Problem 44:
     -    Wildcard Matching (Leetcode Question No. 44) (https://leetcode.com/problems/wildcard-matching/submissions/1189854862/)
