@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 28:  2024-03-02
+- Problem 47:
+    -    Permutations II (Leetcode Question No. 47) (https://leetcode.com/problems/permutations-ii/description/)
+        - Solved approach 1
 - Problem 46:
     -    Permutations (Leetcode Question No. 46) (https://leetcode.com/problems/permutations/description/)
          - Solved approach 1
