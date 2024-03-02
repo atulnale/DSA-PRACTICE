@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 28:  2024-03-02
+- Problem 46:
+    -    Permutations (Leetcode Question No. 46) (https://leetcode.com/problems/permutations/description/)
+         - Solved approach 1
 - Problem 45:
     -    Jump Game II (Leetcode Question No. 45) (https://leetcode.com/problems/jump-game-ii/description/)
         - Solved approach 2
