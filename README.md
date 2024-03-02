@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 28:  2024-03-02
+- Problem 45:
+    -    Jump Game II (Leetcode Question No. 45) (https://leetcode.com/problems/jump-game-ii/description/)
+        - Solved approach 2
+
 #### Day 27:  2024-03-01
 - Problem 45:
     -    Jump Game II (Leetcode Question No. 45) (https://leetcode.com/problems/jump-game-ii/description/)
