@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 29:  2024-03-03
+- Problem 48:
+    -    Rotate Image (Leetcode Question No. 48) (https://leetcode.com/problems/rotate-image/description/)
+         - Solved approach 1
+
 #### Day 28:  2024-03-02
 - Problem 47:
     -    Permutations II (Leetcode Question No. 47) (https://leetcode.com/problems/permutations-ii/description/)
