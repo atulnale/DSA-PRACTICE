@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 30:  2024-03-04
+- Problem 49:
+    -    Group Anagrams (Leetcode Question No. 49) (https://leetcode.com/problems/group-anagrams/description/)
+        - Solved approach 1
+
 #### Day 29:  2024-03-03
 - Problem 48:
     -    Rotate Image (Leetcode Question No. 48) (https://leetcode.com/problems/rotate-image/description/)
