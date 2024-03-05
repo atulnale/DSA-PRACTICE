@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 31:  2024-03-05
+- Problem 50:
+    -    Pow(x, n) (Leetcode Question No. 50) (https://leetcode.com/problems/powx-n/description/)
+         - Solved approach 1
+
 #### Day 30:  2024-03-04
 - Problem 49:
     -    Group Anagrams (Leetcode Question No. 49) (https://leetcode.com/problems/group-anagrams/description/)
