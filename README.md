@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 32:  2024-03-06
+- Problem 51:
+    -    N-Queens (Leetcode Question No. 51) (https://leetcode.com/problems/n-queens/description/)
+        - Solved approach 1
+
 #### Day 31:  2024-03-05
 - Problem 50:
     -    Pow(x, n) (Leetcode Question No. 50) (https://leetcode.com/problems/powx-n/description/)
