@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 32:  2024-03-06
+- Problem 52:
+    -    N-Queens II (Leetcode Question No. 52) (https://leetcode.com/problems/n-queens-ii/description/)
+         - Solved approach 1
 - Problem 51:
     -    N-Queens (Leetcode Question No. 51) (https://leetcode.com/problems/n-queens/description/)
         - Solved approach 1
