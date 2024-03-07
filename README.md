@@ -1,5 +1,11 @@
 # DSA-PRACTICE
 
+
+#### Day 33:  2024-03-07
+- Problem 53:
+    -    Maximum Subarray (Leetcode Question No. 53) (https://leetcode.com/problems/maximum-subarray/description/)
+        - Solved approach 1
+
 #### Day 32:  2024-03-06
 - Problem 52:
     -    N-Queens II (Leetcode Question No. 52) (https://leetcode.com/problems/n-queens-ii/description/)
