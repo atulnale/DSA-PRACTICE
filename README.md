@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 34:  2024-03-08
+- Problem 54:
+    -    Spiral Matrix (Leetcode Question No. 54) (https://leetcode.com/problems/spiral-matrix/description/)
+         - Solved approach 1
 
 #### Day 33:  2024-03-07
 - Problem 53:
