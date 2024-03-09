@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 35:  2024-03-09
+- Problem 55:
+    -    Jump Game (Leetcode Question No. 55) (https://leetcode.com/problems/jump-game/description/)
+        - Solved approach 1
+
 #### Day 34:  2024-03-08
 - Problem 54:
     -    Spiral Matrix (Leetcode Question No. 54) (https://leetcode.com/problems/spiral-matrix/description/)
