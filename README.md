@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 36:  2024-03-10
+- Problem 56:
+    -    Merge Intervals (Leetcode Question No. 56) (https://leetcode.com/problems/merge-intervals/description/)
+         - Solved approach 1
+
 #### Day 35:  2024-03-09
 - Problem 55:
     -    Jump Game (Leetcode Question No. 55) (https://leetcode.com/problems/jump-game/description/)
