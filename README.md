@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 37:  2024-03-11
+- Problem 57:
+    -    Insert Interval (Leetcode Question No. 57) (https://leetcode.com/problems/insert-interval/description/)
+        - Solved approach 1
+
 #### Day 36:  2024-03-10
 - Problem 56:
     -    Merge Intervals (Leetcode Question No. 56) (https://leetcode.com/problems/merge-intervals/description/)
