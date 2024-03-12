@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 38:  2024-03-12
+- Problem 58:
+    -    Length of Last Word (Leetcode Question No. 58) (https://leetcode.com/problems/length-of-last-word/description/)
+         - Solved approach 1
+
 #### Day 37:  2024-03-11
 - Problem 57:
     -    Insert Interval (Leetcode Question No. 57) (https://leetcode.com/problems/insert-interval/description/)
