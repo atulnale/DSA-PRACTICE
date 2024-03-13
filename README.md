@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 39:  2024-03-13
+- Problem 59:
+    -    Spiral Matrix II (Leetcode Question No. 59) (https://leetcode.com/problems/spiral-matrix-ii/description/)
+        - Solved approach 1
+
 #### Day 38:  2024-03-12
 - Problem 58:
     -    Length of Last Word (Leetcode Question No. 58) (https://leetcode.com/problems/length-of-last-word/description/)
