@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 40:  2024-03-14
+- Problem 60:
+    -    Permutation Sequence (Leetcode Question No. 60) (https://leetcode.com/problems/permutation-sequence/description/)
+         - Solved approach 1
+
 #### Day 39:  2024-03-13
 - Problem 59:
     -    Spiral Matrix II (Leetcode Question No. 59) (https://leetcode.com/problems/spiral-matrix-ii/description/)
