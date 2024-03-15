@@ -1,5 +1,7 @@
 package problem2;
 
+import utils.ListNode;
+
 public class Approach1 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int carry = 0;

@@ -1,6 +1,7 @@
 package problem2;
 
 import org.junit.jupiter.api.Test;
+import utils.ListNode;
 
 import static org.junit.jupiter.api.Assertions.*;
 

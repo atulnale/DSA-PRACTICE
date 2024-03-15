@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 41:  2024-03-15
+- Problem 61:
+    -    Rotate List (Leetcode Question No. 61) (https://leetcode.com/problems/rotate-list/description/)
+        - Solved approach 1
+
 #### Day 40:  2024-03-14
 - Problem 60:
     -    Permutation Sequence (Leetcode Question No. 60) (https://leetcode.com/problems/permutation-sequence/description/)
