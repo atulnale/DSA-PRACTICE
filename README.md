@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 41:  2024-03-15
+- Problem 62:
+    -    Count Digits (Coding Ninja.) (https://www.codingninjas.com/studio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+         - Solved approach 1
 - Problem 61:
     -    Rotate List (Leetcode Question No. 61) (https://leetcode.com/problems/rotate-list/description/)
         - Solved approach 1
