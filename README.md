@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 41:  2024-03-15
+- Problem 63:
+    -    GCD or HCF (Coding Ninja.) (https://www.codingninjas.com/studio/problems/hcf-and-lcm_840448?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+        - Solved approach 1
 - Problem 62:
     -    Count Digits (Coding Ninja.) (https://www.codingninjas.com/studio/problems/count-digits_8416387?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
          - Solved approach 1
