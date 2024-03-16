@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 42:  2024-03-16
+- Problem 68:
+    -    Print n times (Coding Ninja.) (https://www.codingninjas.com/studio/problems/-print-n-times_8380707?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 67:
     -    1 to N Without Loop (Coding Ninja.) (https://www.codingninjas.com/studio/problems/print-1-to-n_628290?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
         - Solved approach 1
