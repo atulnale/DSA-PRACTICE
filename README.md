@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 43:  2024-03-17
+- Problem 73:
+    -    Fibonacci Number (Leetcode Question No. 509) (https://leetcode.com/problems/fibonacci-number/description/)
+        - Solved approach 1
 - Problem 72:
     -    Valid Palindrome (Leetcode Question No. 125) (https://leetcode.com/problems/valid-palindrome/description/)
         - Solved approach 1
