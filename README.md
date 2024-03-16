@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 42:  2024-03-16
+- Problem 65:
+    -    Armstrong Number (Leetcode Question No. 1134) (https://leetcode.com/problems/armstrong-number/description/)
+        - Solved approach 1
 - Problem 64:
     -    Unique Paths (Leetcode Question No. 62) (https://leetcode.com/problems/unique-paths/)
          - Solved approach 1
