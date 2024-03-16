@@ -1,5 +1,11 @@
 # DSA-PRACTICE
 
+#### Day 42:  2024-03-16
+- Problem 64:
+    -    Unique Paths (Leetcode Question No. 62) (https://leetcode.com/problems/unique-paths/)
+         - Solved approach 1
+         - Solved using approach 2
+
 #### Day 41:  2024-03-15
 - Problem 63:
     -    GCD or HCF (Coding Ninja.) (https://www.codingninjas.com/studio/problems/hcf-and-lcm_840448?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
