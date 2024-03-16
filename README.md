@@ -2,6 +2,9 @@
 
 #### Day 42:  2024-03-16
 
+- Problem 70:
+    -    Factorial Numbers Not Greater Than N (Coding Ninja.) (https://www.codingninjas.com/studio/problems/factorial-numbers-not-greater-than-n_8365435?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 69:
     -    Sum Of First n Numbers (Coding Ninja.) (https://www.codingninjas.com/studio/problems/sum-of-first-n-numbers_8876068?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
