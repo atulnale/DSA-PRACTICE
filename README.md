@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 42:  2024-03-16
+- Problem 66:
+    -    Sum of all divisors (Coding Ninja.) (https://www.codingninjas.com/studio/problems/sum-of-all-divisors_8360720?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 65:
     -    Armstrong Number (Leetcode Question No. 1134) (https://leetcode.com/problems/armstrong-number/description/)
         - Solved approach 1
