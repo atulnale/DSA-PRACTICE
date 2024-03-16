@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 43:  2024-03-17
+- Problem 74:
+    -    Count Frequency in a range (Coding Ninja.) (https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+        - Solved approach 1
 - Problem 73:
     -    Fibonacci Number (Leetcode Question No. 509) (https://leetcode.com/problems/fibonacci-number/description/)
         - Solved approach 1
