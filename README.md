@@ -1,7 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 43:  2024-03-17
-
+- Problem 72:
+    -    Valid Palindrome (Leetcode Question No. 125) (https://leetcode.com/problems/valid-palindrome/description/)
+        - Solved approach 1
 - Problem 71:
     -    Reverse an Array (Coding Ninja.) (https://www.codingninjas.com/studio/problems/reverse-an-array_8365444?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
         - Solved approach 1
