@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 44:  2024-03-18
+- Problem 75:
+    -    Frequency of the Most Frequent Element (Leetcode Question No. 1838) (https://leetcode.com/problems/frequency-of-the-most-frequent-element/submissions/1206509470/)
+        - Solved approach 1
 #### Day 43:  2024-03-17
 - Problem 74:
     -    Count Frequency in a range (Coding Ninja.) (https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
