@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 76:
+    -    Check if Array Is Sorted and Rotated (Leetcode Question No. 1752) (https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+        - Solved approach 1
 - Problem 75:
     -    Frequency of the Most Frequent Element (Leetcode Question No. 1838) (https://leetcode.com/problems/frequency-of-the-most-frequent-element/submissions/1206509470/)
         - Solved approach 1
