@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 80:
+    -    Largest Element in the Array (Coding Ninja.) (https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+         - Solved approach 1
 - Problem 79:
     -    Insertion sort (Coding Ninja.) (https://www.codingninjas.com/studio/problems/insertion-sort_624381?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
         - Solved approach 1
