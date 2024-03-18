@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 81:
+    -    Minimum Number of Arrows to Burst Balloons (Leetcode Question No. 452) (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?source=submission-ac)
+         - Solved approach 1
 - Problem 80:
     -    Largest Element in the Array (Coding Ninja.) (https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
          - Solved approach 1
