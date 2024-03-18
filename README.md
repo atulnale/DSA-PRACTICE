@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 82:
+    -    Merge Sort (Coding Ninja.) (https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 81:
     -    Minimum Number of Arrows to Burst Balloons (Leetcode Question No. 452) (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?source=submission-ac)
          - Solved approach 1
