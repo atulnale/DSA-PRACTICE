@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 78:
+    -    Bubble sort (Coding Ninja.) (https://www.codingninjas.com/studio/problems/bubble-sort_624380?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+        - Solved approach 1
 - Problem 77:
     -    Selection Sort (Coding Ninja.) (https://www.codingninjas.com/studio/problems/selection-sort_624469?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
         - Solved approach 1
