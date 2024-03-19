@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
-#### Day 44:  2024-03-18
+#### Day 45:  2024-03-19
+- Problem 86:
+    -    Rotate Array (Leetcode Question No. 189) (https://leetcode.com/problems/rotate-array/description/)
+         - Solved approach 1
 - Problem 85:
     -    Remove Duplicates from Sorted Array (Leetcode Question No. 26) (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
          - Solved approach 1
