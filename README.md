@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 45:  2024-03-19
+- Problem 88:
+    -    Linear Search (Coding Ninja.) (https://www.codingninjas.com/studio/problems/linear-search_6922070?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 87:
     -    Move Zeroes (Leetcode Question No. 283) (https://leetcode.com/problems/move-zeroes/description/)
          - Solved approach 1
