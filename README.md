@@ -1,6 +1,11 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 83:
+    -    Task Scheduler (Leetcode Question No. 621) (https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
+         - Solved approach 1
+
+#### Day 44:  2024-03-18
 - Problem 82:
     -    Merge Sort (Coding Ninja.) (https://www.codingninjas.com/studio/problems/merge-sort_5846?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
