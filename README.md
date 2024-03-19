@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 84:
+    -    Second Largest Number (Coding Ninja.) (https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 83:
     -    Task Scheduler (Leetcode Question No. 621) (https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19)
          - Solved approach 1
