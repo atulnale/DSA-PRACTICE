@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 45:  2024-03-19
+- Problem 87:
+    -    Move Zeroes (Leetcode Question No. 283) (https://leetcode.com/problems/move-zeroes/description/)
+         - Solved approach 1
 - Problem 86:
     -    Rotate Array (Leetcode Question No. 189) (https://leetcode.com/problems/rotate-array/description/)
          - Solved approach 1
