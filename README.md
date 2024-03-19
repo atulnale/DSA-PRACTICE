@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 45:  2024-03-19
+- Problem 90:
+    -    Missing Number (Leetcode Question No. 268) (https://leetcode.com/problems/missing-number/description/)
+         - Solved approach 1
 - Problem 89:
     -    Merge 2 Sorted Array (Coding Ninja.) (https://www.codingninjas.com/studio/problems/sorted-array_6613259?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
