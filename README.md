@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 45:  2024-03-19
+- Problem 92:
+    -    Single Number (Leetcode Question No. 136) (https://leetcode.com/problems/single-number/description/)
+         - Solved approach 1
 - Problem 91:
     -    Max Consecutive Ones (Leetcode Question No. 485) (https://leetcode.com/problems/max-consecutive-ones/description/)
          - Solved approach 1
