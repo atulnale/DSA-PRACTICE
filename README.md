@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 44:  2024-03-18
+- Problem 85:
+    -    Remove Duplicates from Sorted Array (Leetcode Question No. 26) (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+         - Solved approach 1
 - Problem 84:
     -    Second Largest Number (Coding Ninja.) (https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
