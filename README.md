@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 46:  2024-03-20
+- Problem 93:
+    -    Merge In Between Linked Lists (Leetcode Question No. 1669) (https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
+         - Solved approach 1
 #### Day 45:  2024-03-19
 - Problem 92:
     -    Single Number (Leetcode Question No. 136) (https://leetcode.com/problems/single-number/description/)
