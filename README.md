@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 46:  2024-03-20
+- Problem 94:
+    -    Longest Subarray With Sum K (Coding Ninja.) (https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 93:
     -    Merge In Between Linked Lists (Leetcode Question No. 1669) (https://leetcode.com/problems/merge-in-between-linked-lists/description/?envType=daily-question&envId=2024-03-20)
          - Solved approach 1
