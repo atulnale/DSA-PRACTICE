@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 47:  2024-03-21
+- Problem 95:
+    -    Reverse Linked List (Leetcode Question No. 206) (https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
+         - Solved approach 1
 #### Day 46:  2024-03-20
 - Problem 94:
     -    Longest Subarray With Sum K (Coding Ninja.) (https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
