@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 47:  2024-03-21
+- Problem 96:
+    -    Sort Colors (Leetcode Question No. 75) (https://leetcode.com/problems/sort-colors/description/)
+         - Solved approach 1
 - Problem 95:
     -    Reverse Linked List (Leetcode Question No. 206) (https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21)
          - Solved approach 1
