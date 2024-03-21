@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 47:  2024-03-21
+- Problem 97:
+    -    Majority Element (Leetcode Question No. 169) (https://leetcode.com/problems/majority-element/description/)
+         - Solved approach 1
 - Problem 96:
     -    Sort Colors (Leetcode Question No. 75) (https://leetcode.com/problems/sort-colors/description/)
          - Solved approach 1
