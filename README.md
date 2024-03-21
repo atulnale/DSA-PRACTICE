@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 47:  2024-03-21
+- Problem 99:
+    -    Best Time to Buy and Sell Stock (Leetcode Question No. 121) (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+         - Solved approach 1
 - Problem 98:
     -    Maximum Subarray (Leetcode Question No. 53) (https://leetcode.com/problems/maximum-subarray/description/)
          - Solved approach 1
