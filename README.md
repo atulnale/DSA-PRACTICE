@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 48:  2024-03-22
+- Problem 100:
+    -    Palindrome Linked List (Leetcode Question No. 234) (https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22)
+         - Solved approach 1
 #### Day 47:  2024-03-21
 - Problem 99:
     -    Best Time to Buy and Sell Stock (Leetcode Question No. 121) (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
