@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 48:  2024-03-22
+- Problem 101:
+    -    Rearrange Array Elements by Sign (Leetcode Question No. 2149) (https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+         - Solved approach 1
 - Problem 100:
     -    Palindrome Linked List (Leetcode Question No. 234) (https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22)
          - Solved approach 1
