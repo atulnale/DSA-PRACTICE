@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 48:  2024-03-22
+- Problem 104:
+    -    Longest Consecutive Sequence (Leetcode Question No. 128) (https://leetcode.com/problems/longest-consecutive-sequence/description/)
+         - Solved approach 1
 - Problem 103:
     -    Superior Elements (Coding Ninja.) (https://www.codingninjas.com/studio/problems/superior-elements_6783446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
