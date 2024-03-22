@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 48:  2024-03-22
+- Problem 102:
+    -    Next Permutation (Leetcode Question No. 31) (https://leetcode.com/problems/next-permutation/description/)
+         - Solved approach 1
 - Problem 101:
     -    Rearrange Array Elements by Sign (Leetcode Question No. 2149) (https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
          - Solved approach 1
