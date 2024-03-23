@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 48:  2024-03-23
+- Problem 105:
+    -    Set Matrix Zeroes (Leetcode Question No. 73) (https://leetcode.com/problems/set-matrix-zeroes/description/)
+         - Solved approach 1
 #### Day 48:  2024-03-22
 - Problem 104:
     -    Longest Consecutive Sequence (Leetcode Question No. 128) (https://leetcode.com/problems/longest-consecutive-sequence/description/)
