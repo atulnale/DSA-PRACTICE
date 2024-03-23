@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 49:  2024-03-23
+- Problem 112:
+    -    Implement Upper Bound (Coding Ninja.) (https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
 - Problem 111:
     -    Implement Lower Bound (Coding Ninja.) (https://www.codingninjas.com/studio/problems/lower-bound_8165382?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
