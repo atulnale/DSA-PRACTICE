@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
-#### Day 48:  2024-03-23
+#### Day 49:  2024-03-23
+- Problem 107:
+    -    Subarray Sum Equals K (Leetcode Question No. 560) (https://leetcode.com/problems/subarray-sum-equals-k/description/)
+         - Solved approach 1
 - Problem 106:
     -    Reorder List (Leetcode Question No. 143) (https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23)
          - Solved approach 1
