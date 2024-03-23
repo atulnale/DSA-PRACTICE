@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 49:  2024-03-23
+- Problem 110:
+    -    Binary Search (Leetcode Question No. 704) (https://leetcode.com/problems/binary-search/description/)
+         - Solved approach 1
 - Problem 109:
     -    Majority Element II (Leetcode Question No. 229) (https://leetcode.com/problems/majority-element-ii/description/)
          - Solved approach 1
