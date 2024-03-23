@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 48:  2024-03-23
+- Problem 106:
+    -    Reorder List (Leetcode Question No. 143) (https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23)
+         - Solved approach 1
 - Problem 105:
     -    Set Matrix Zeroes (Leetcode Question No. 73) (https://leetcode.com/problems/set-matrix-zeroes/description/)
          - Solved approach 1
