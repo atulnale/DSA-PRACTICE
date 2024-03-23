@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 49:  2024-03-23
+- Problem 108:
+    -    Pascal's Triangle (Leetcode Question No. 118) (https://leetcode.com/problems/pascals-triangle/description/)
+         - Solved approach 1
 - Problem 107:
     -    Subarray Sum Equals K (Leetcode Question No. 560) (https://leetcode.com/problems/subarray-sum-equals-k/description/)
          - Solved approach 1
