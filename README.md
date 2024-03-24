@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 49:  2024-03-24
+- Problem 114:
+    -    Find the Duplicate Number (Leetcode Question No. 287) (https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24)
+        - Solved approach 1
 #### Day 49:  2024-03-23
 - Problem 113:
     -    Search Insert Position (Leetcode Question No. 35) (https://leetcode.com/problems/search-insert-position/description/)
