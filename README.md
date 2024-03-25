@@ -1,6 +1,13 @@
 # DSA-PRACTICE
 
-#### Day 49:  2024-03-24
+#### Day 51:  2024-03-25
+- Problem 117:
+    -    Find All Duplicates in an Array (Leetcode Question No. 442) (https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25)
+        - Solved approach 1
+#### Day 50:  2024-03-24
+- Problem 116:
+    -    Number of occurrence (Coding Ninja.) (https://www.codingninjas.com/studio/problems/occurrence-of-x-in-a-sorted-array_630456?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+        - Solved approach 1
 - Problem 115:
     -    Ceil The Floor (Coding Ninja.) (https://www.codingninjas.com/studio/problems/ceiling-in-a-sorted-array_1825401?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
         - Solved approach 1
