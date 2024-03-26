@@ -1,5 +1,10 @@
 # DSA-PRACTICE
 
+#### Day 52:  2024-03-26
+- Problem 118:
+    -    Longest Subarray With Zero Sum (Coding Ninja.) (https://www.codingninjas.com/studio/problems/longest-subarray-with-zero-sum_6783450?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
+         - Solved approach 1
+
 #### Day 51:  2024-03-25
 - Problem 117:
     -    Find All Duplicates in an Array (Leetcode Question No. 442) (https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25)
