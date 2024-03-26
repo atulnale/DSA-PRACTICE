@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 52:  2024-03-26
+- Problem 120:
+    -    Search in Rotated Sorted Array (Leetcode Question No. 33) (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+         - Solved approach 1
 - Problem 119:
     -    Maximum Product Subarray (Leetcode Question No. 152) (https://leetcode.com/problems/maximum-product-subarray/description/)
          - Solved approach 1
