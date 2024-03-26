@@ -1,6 +1,9 @@
 # DSA-PRACTICE
 
 #### Day 52:  2024-03-26
+- Problem 119:
+    -    Maximum Product Subarray (Leetcode Question No. 152) (https://leetcode.com/problems/maximum-product-subarray/description/)
+         - Solved approach 1
 - Problem 118:
     -    Longest Subarray With Zero Sum (Coding Ninja.) (https://www.codingninjas.com/studio/problems/longest-subarray-with-zero-sum_6783450?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM)
          - Solved approach 1
