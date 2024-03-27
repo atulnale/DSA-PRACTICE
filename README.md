@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 52:  2024-03-27
+- Problem 121:
+    -    Subarray Product Less Than K (Leetcode Question No. 713) (https://leetcode.com/problems/subarray-product-less-than-k/description/?envType=daily-question&envId=2024-03-27)
+         - Solved approach 1
 #### Day 52:  2024-03-26
 - Problem 120:
     -    Search in Rotated Sorted Array (Leetcode Question No. 33) (https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
