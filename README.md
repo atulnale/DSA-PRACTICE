@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 54:  2024-03-28
+- Problem 122:
+    -    Length of Longest Subarray With at Most K Frequency (Leetcode Question No. 2958) (https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28)
+         - Solved approach 1
 #### Day 53:  2024-03-27
 - Problem 121:
     -    Subarray Product Less Than K (Leetcode Question No. 713) (https://leetcode.com/problems/subarray-product-less-than-k/description/?envType=daily-question&envId=2024-03-27)
