@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 55:  2024-03-29
+- Problem 123:
+    -    Count Subarrays Where Max Element Appears at Least K Times (Leetcode Question No. 2962) (https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)
+         - Solved approach 1
 #### Day 54:  2024-03-28
 - Problem 122:
     -    Length of Longest Subarray With at Most K Frequency (Leetcode Question No. 2958) (https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28)
