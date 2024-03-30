@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 56:  2024-03-30
+- Problem 124:
+    -    Subarrays with K Different Integers (Leetcode Question No. 992) (https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30)
+         - Solved approach 1
 #### Day 55:  2024-03-29
 - Problem 123:
     -    Count Subarrays Where Max Element Appears at Least K Times (Leetcode Question No. 2962) (https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)
