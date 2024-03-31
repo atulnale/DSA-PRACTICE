@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 57:  2024-03-31
+- Problem 125:
+    -    Count Subarrays With Fixed Bounds (Leetcode Question No. 2444) (https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31)
+         - Solved approach 1
 #### Day 56:  2024-03-30
 - Problem 124:
     -    Subarrays with K Different Integers (Leetcode Question No. 992) (https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30)
