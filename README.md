@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 58:  2024-04-01
+- Problem 126:
+    -    Length of Last Word (Leetcode Question No. 58) (https://leetcode.com/problems/length-of-last-word/description/?envType=daily-question&envId=2024-04-01)
+         - Solved approach 1
 #### Day 57:  2024-03-31
 - Problem 125:
     -    Count Subarrays With Fixed Bounds (Leetcode Question No. 2444) (https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31)
