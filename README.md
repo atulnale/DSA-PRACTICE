@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 59:  2024-04-02
+- Problem 127:
+    -    Isomorphic Strings (Leetcode Question No. 205) (https://leetcode.com/problems/isomorphic-strings/description/?envType=daily-question&envId=2024-04-02)
+         - Solved approach 1
 #### Day 58:  2024-04-01
 - Problem 126:
     -    Length of Last Word (Leetcode Question No. 58) (https://leetcode.com/problems/length-of-last-word/description/?envType=daily-question&envId=2024-04-01)
