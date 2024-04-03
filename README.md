@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 60:  2024-04-03
+- Problem 128:
+    -    Word Search (Leetcode Question No. 79) (https://leetcode.com/problems/word-search/description/?envType=daily-question&envId=2024-04-03)
+         - Solved approach 1
 #### Day 59:  2024-04-02
 - Problem 127:
     -    Isomorphic Strings (Leetcode Question No. 205) (https://leetcode.com/problems/isomorphic-strings/description/?envType=daily-question&envId=2024-04-02)
