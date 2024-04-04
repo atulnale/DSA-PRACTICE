@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 61:  2024-04-04
+- Problem 129:
+    -    Maximum Nesting Depth of the Parentheses (Leetcode Question No. 1614) (https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04)
+         - Solved approach 1
 #### Day 60:  2024-04-03
 - Problem 128:
     -    Word Search (Leetcode Question No. 79) (https://leetcode.com/problems/word-search/description/?envType=daily-question&envId=2024-04-03)
