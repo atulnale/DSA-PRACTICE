@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 62:  2024-04-05
+- Problem 130:
+    -    Make The String Great (Leetcode Question No. 1544) (https://leetcode.com/problems/make-the-string-great/description/)
+         - Solved approach 1
 #### Day 61:  2024-04-04
 - Problem 129:
     -    Maximum Nesting Depth of the Parentheses (Leetcode Question No. 1614) (https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=daily-question&envId=2024-04-04)
