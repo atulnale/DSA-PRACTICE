@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 63:  2024-04-06
+- Problem 131:
+    -    Minimum Remove to Make Valid Parentheses (Leetcode Question No. 1249) (https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
+         - Solved approach 1
 #### Day 62:  2024-04-05
 - Problem 130:
     -    Make The String Great (Leetcode Question No. 1544) (https://leetcode.com/problems/make-the-string-great/description/)
