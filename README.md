@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 64:  2024-04-07
+- Problem 131:
+    -    Valid Parenthesis String (Leetcode Question No. 678) (https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07)
+         - Solved approach 1
 #### Day 63:  2024-04-06
 - Problem 131:
     -    Minimum Remove to Make Valid Parentheses (Leetcode Question No. 1249) (https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)
