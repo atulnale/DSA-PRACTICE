@@ -1,7 +1,11 @@
 # DSA-PRACTICE
 
+#### Day 65:  2024-04-08
+- Problem 133:
+    -    Number of Students Unable to Eat Lunch (Leetcode Question No. 1700) (https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08)
+         - Solved approach 1
 #### Day 64:  2024-04-07
-- Problem 131:
+- Problem 132:
     -    Valid Parenthesis String (Leetcode Question No. 678) (https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2024-04-07)
          - Solved approach 1
 #### Day 63:  2024-04-06
