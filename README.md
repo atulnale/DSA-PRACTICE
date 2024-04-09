@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 66:  2024-04-09
+- Problem 134:
+    -    Time Needed to Buy Tickets (Leetcode Question No. 2073) (https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
+         - Solved approach 1
 #### Day 65:  2024-04-08
 - Problem 133:
     -    Number of Students Unable to Eat Lunch (Leetcode Question No. 1700) (https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=daily-question&envId=2024-04-08)
