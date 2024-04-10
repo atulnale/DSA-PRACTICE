@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 67:  2024-04-10
+- Problem 135:
+    -    Reveal Cards In Increasing Orders (Leetcode Question No. 950) (https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10)
+         - Solved approach 1
 #### Day 66:  2024-04-09
 - Problem 134:
     -    Time Needed to Buy Tickets (Leetcode Question No. 2073) (https://leetcode.com/problems/time-needed-to-buy-tickets/description/)
