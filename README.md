@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 68:  2024-04-11
+- Problem 136:
+    -    Remove K Digits (Leetcode Question No. 402) (https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11)
+         - Solved approach 1
 #### Day 67:  2024-04-10
 - Problem 135:
     -    Reveal Cards In Increasing Orders (Leetcode Question No. 950) (https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=daily-question&envId=2024-04-10)
