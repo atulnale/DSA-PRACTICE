@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 69:  2024-04-12
+- Problem 137:
+    -    Trapping Rain Water (Leetcode Question No. 42) (https://leetcode.com/problems/trapping-rain-water/description/?envType=daily-question&envId=2024-04-12)
+         - Solved approach 1
 #### Day 68:  2024-04-11
 - Problem 136:
     -    Remove K Digits (Leetcode Question No. 402) (https://leetcode.com/problems/remove-k-digits/description/?envType=daily-question&envId=2024-04-11)
