@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 71:  2024-04-14
+- Problem 139:
+    -    Sum of Left Leaves (Leetcode Question No. 404) (https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
+         - Solved approach 1
 #### Day 70:  2024-04-13
 - Problem 138:
     -    Maximal Rectangle (Leetcode Question No. 85) (https://leetcode.com/problems/maximal-rectangle/description/?envType=daily-question&envId=2024-04-13)
