@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 72:  2024-04-15
+- Problem 140:
+    -    Sum Root to Leaf Numbers (Leetcode Question No. 129) (https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=daily-question&envId=2024-04-15)
+         - Solved approach 1
 #### Day 71:  2024-04-14
 - Problem 139:
     -    Sum of Left Leaves (Leetcode Question No. 404) (https://leetcode.com/problems/sum-of-left-leaves/description/?envType=daily-question&envId=2024-04-14)
