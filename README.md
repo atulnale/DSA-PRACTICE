@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 73:  2024-04-16
+- Problem 141:
+    -    Add One Row to Tree (Leetcode Question No. 623) (https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16)
+         - Solved approach 1
 #### Day 72:  2024-04-15
 - Problem 140:
     -    Sum Root to Leaf Numbers (Leetcode Question No. 129) (https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=daily-question&envId=2024-04-15)
