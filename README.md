@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 74:  2024-04-17
+- Problem 142:
+    -    Smallest String Starting From Leaf (Leetcode Question No. 988) (https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
+         - Solved approach 1
 #### Day 73:  2024-04-16
 - Problem 141:
     -    Add One Row to Tree (Leetcode Question No. 623) (https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16)
