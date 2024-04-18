@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 75:  2024-04-18
+- Problem 143:
+    -    Island Perimeter (Leetcode Question No. 463) (https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18)
+         - Solved approach 1
 #### Day 74:  2024-04-17
 - Problem 142:
     -    Smallest String Starting From Leaf (Leetcode Question No. 988) (https://leetcode.com/problems/smallest-string-starting-from-leaf/description/?envType=daily-question&envId=2024-04-17)
