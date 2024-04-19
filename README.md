@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 76:  2024-04-19
+- Problem 144:
+    -    Number of Islands (Leetcode Question No. 200) (https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19)
+         - Solved approach 1
 #### Day 75:  2024-04-18
 - Problem 143:
     -    Island Perimeter (Leetcode Question No. 463) (https://leetcode.com/problems/island-perimeter/description/?envType=daily-question&envId=2024-04-18)
