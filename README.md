@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 77:  2024-04-20
+- Problem 145:
+    -    Find All Groups of Farmland (Leetcode Question No. 1992) (https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20)
+         - Solved approach 1
 #### Day 76:  2024-04-19
 - Problem 144:
     -    Number of Islands (Leetcode Question No. 200) (https://leetcode.com/problems/number-of-islands/description/?envType=daily-question&envId=2024-04-19)
