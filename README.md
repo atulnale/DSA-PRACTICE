@@ -1,5 +1,9 @@
 # DSA-PRACTICE
 
+#### Day 78:  2024-04-21
+- Problem 146:
+    -    Find if Path Exists in Graph (Leetcode Question No. 1971) (https://leetcode.com/problems/find-if-path-exists-in-graph/description/?envType=daily-question&envId=2024-04-21)
+         - Solved approach 1
 #### Day 77:  2024-04-20
 - Problem 145:
     -    Find All Groups of Farmland (Leetcode Question No. 1992) (https://leetcode.com/problems/find-all-groups-of-farmland/description/?envType=daily-question&envId=2024-04-20)
